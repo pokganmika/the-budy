@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Budy Custom Icons / facebook-f</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.9994284,1.07 C6.27015132,1.08518782 1.51188777,5.49547612 1.06248118,11.2071204 C0.613074589,16.9187646 4.62302938,22.0189584 10.2794284,22.93 L10.2794284,15.25 L7.48942836,15.25 L7.48942836,12.07 L10.2794284,12.07 L10.2794284,9.64 C10.2794284,6.89 11.9194284,5.36 14.4394284,5.36 C15.2637653,5.37192248 16.0860572,5.44546078 16.8994284,5.58 L16.8994284,8.29 L15.5094284,8.29 C15.0317611,8.22387426 14.5500463,8.37950557 14.2013607,8.71260752 C13.852675,9.04570946 13.6751965,9.51981031 13.7194284,10 L13.7194284,12.07 L16.7194284,12.07 L16.2294284,15.25 L13.7194284,15.25 L13.7194284,22.93 C19.3758273,22.0189584 23.3857821,16.9187646 22.9363755,11.2071204 C22.4869689,5.49547612 17.7287054,1.08518782 11.9994284,1.07 Z" id="path-1"></path>
+    </defs>
+    <g id="Budy-Custom-Icons-/-facebook-f" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="facebook-f" fill="#1877F2" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <rect id="🎨-Icon-Color" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

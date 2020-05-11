@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Budy Custom Icons / check-square-fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19,2 C20.5976809,2 21.9036609,3.24891996 21.9949073,4.82372721 L22,5 L22,19 C22,20.5976809 20.75108,21.9036609 19.1762728,21.9949073 L19,22 L5,22 C3.40231912,22 2.09633912,20.75108 2.00509269,19.1762728 L2,19 L2,5 C2,3.40231912 3.24891996,2.09633912 4.82372721,2.00509269 L5,2 L19,2 Z M17.7071068,7.79289322 C17.3466228,7.43240926 16.7793918,7.40467972 16.3871006,7.70970461 L16.2928932,7.79289322 L10,14.085 L7.70710678,11.7928932 L7.61289944,11.7097046 C7.22060824,11.4046797 6.65337718,11.4324093 6.29289322,11.7928932 C5.93240926,12.1533772 5.90467972,12.7206082 6.20970461,13.1128994 L6.29289322,13.2071068 L9.29289322,16.2071068 L9.38710056,16.2902954 C9.74670083,16.5699015 10.2532992,16.5699015 10.6128994,16.2902954 L10.7071068,16.2071068 L17.7071068,9.20710678 L17.7902954,9.11289944 C18.0953203,8.72060824 18.0675907,8.15337718 17.7071068,7.79289322 Z" id="path-1"></path>
+    </defs>
+    <g id="Budy-Custom-Icons-/-check-square-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="check-square-fill" fill="#008695" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <rect id="🎨-Icon-Color" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>

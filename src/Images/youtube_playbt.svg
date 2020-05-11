@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Budy Custom Icons / youtube_playbt</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22.54,6.67 C22.2982108,5.70399138 21.5581982,4.94109186 20.6,4.67 C18.88,4.21 12,4.21 12,4.21 C12,4.21 5.12,4.21 3.4,4.67 C2.44180175,4.94109186 1.70178922,5.70399138 1.46,6.67 C1.14276769,8.4286982 0.988779294,10.212955 1,12 C0.988779294,13.787045 1.14276769,15.5713018 1.46,17.33 C1.70178922,18.2960086 2.44180175,19.0589081 3.4,19.33 C5.12,19.79 12,19.79 12,19.79 C12,19.79 18.88,19.79 20.6,19.33 C21.5581982,19.0589081 22.2982108,18.2960086 22.54,17.33 C22.8572323,15.5713018 23.0112207,13.787045 23,12 C23.0112207,10.212955 22.8572323,8.4286982 22.54,6.67 Z M9.75,15.27 L9.75,8.73 L15.5,12 L9.75,15.27 Z" id="path-1"></path>
+    </defs>
+    <g id="Budy-Custom-Icons-/-youtube_playbt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="youtube_playbt" fill="#FF0000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <rect id="🎨-Icon-Color" mask="url(#mask-2)" x="0" y="0" width="24" height="24"></rect>
+    </g>
+</svg>
